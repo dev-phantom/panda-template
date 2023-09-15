@@ -109,7 +109,7 @@ async function init() {
     fs.mkdirSync(root, { recursive: true });
   }
 
-  const template = variant || framework || argv.template || argv.t;
+  const template = variant || framework || template || argv.t;
 
   console.log(`\nCreating a new project in directory: ${cyan(root)}...`);
 
