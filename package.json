@@ -1,0 +1,29 @@
+{
+  "name": "panda-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Dev-phantom",
+  "bin": {
+    "panda-template": "index.js",
+    "csc": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-phantom/backend-template.git"
+  },
+  "homepage": "https://github.com/dev-phantom/backend-template",
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2"
+  }
+}
