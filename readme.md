@@ -1,8 +1,8 @@
-# Panda Backend
+# Panda Backend - Open Source
 
 ![Panda Logo](panda-logo.png)
 
-Panda Backend is a stylish and elegant Node.js module designed to simplify the creation of backend templates for web applications. This module, created by Dev-phantom, provides a set of tools and utilities to help developers kickstart their backend development process with ease.
+Panda Backend is an elegant and stylish open-source Node.js module designed to simplify the creation of backend templates for web applications. This module, created by Dev-phantom, provides a set of tools and utilities to help developers kickstart their backend development process with ease.
 
 ## Features
 
@@ -61,6 +61,10 @@ If you'd like to contribute to Panda Backend, please follow the [Contribution Gu
 
 You can find the source code for Panda Backend on [GitHub](https://github.com/dev-phantom/backend-template).
 
+## Open Source
+
+Panda Backend is an open-source project. You are encouraged to explore, contribute, and use it in your own projects. We welcome contributions from the community to make Panda Backend even better!
+
 ## Homepage
 
 For more information and updates, visit the [Panda Backend Homepage](https://github.com/dev-phantom/backend-template).
@@ -70,6 +74,6 @@ For more information and updates, visit the [Panda Backend Homepage](https://git
 If you have any questions or need assistance with Panda Backend, feel free to reach out to the author:
 
 - Author: Dev-phantom
-- Email: dev.phantom@example.com
+- Email: godsfavour1975@gmail.com
 
 Happy coding with Panda Backend! 🐼🚀
